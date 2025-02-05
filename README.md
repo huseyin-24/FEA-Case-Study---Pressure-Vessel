@@ -57,12 +57,11 @@ limit is not exceeded.
 applied given in the figures.
 - Thermal loads are applied at the second step just
 after bolts are loaded.
+<br clear="left"/>
 
 
 
   
-<br clear="left"/>
-
 <p align="left">
   <img src="https://github.com/user-attachments/assets/b01a08fa-2a7a-45cb-901f-ab8669642cd7" width="400" /></p>
 <p align="left">Step Details for Thermal Boundary Conditions</p>
