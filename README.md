@@ -65,9 +65,6 @@ after bolts are loaded.
 <p align="left"> 
   <img src="https://github.com/user-attachments/assets/b01a08fa-2a7a-45cb-901f-ab8669642cd7" width="400" /></p>
 <p align="left">Step Details for Thermal Boundary Conditions</p>
-
-<br />
-<br />
  
 ### Boundary Conditions - Mechanical
 <img src="https://github.com/user-attachments/assets/95323105-0a9d-4329-acac-28ecf5d69b8c" align="right" width="350"/>
@@ -96,7 +93,7 @@ after bolts are loaded.
 <br clear="left"/> 
 
 ### Solution Methods and Options
-<img src="https://github.com/user-attachments/assets/a7efb7c6-e184-4989-8dd7-9881d453eca1" align="right" width="250"/>
+<img src="https://github.com/user-attachments/assets/a7efb7c6-e184-4989-8dd7-9881d453eca1" align="right" width="220"/>
 
 - Large deflection is activated. All other details of the solver are held at their default options.  
 - Three step analysis is conducted such that;  
@@ -105,9 +102,12 @@ after bolts are loaded.
   - Third step --> Pressure  
 
 <br clear="left"/>  
+<br />
+<br />
+<br />
 
 ### Results and Discussion
-<img src="https://github.com/user-attachments/assets/a7efb7c6-e184-4989-8dd7-9881d453eca1" align="right" width="250"/>
+<img src="" align="right" width="250"/>
 
 - Large deflection is activated. All other details of the solver are held at their default options.  
 - Three step analysis is conducted such that;  
@@ -118,7 +118,7 @@ after bolts are loaded.
 <br clear="left"/>
 
 ### Analytic Stress Calculation of Bolts
-<img src="https://github.com/user-attachments/assets/a7efb7c6-e184-4989-8dd7-9881d453eca1" align="right" width="250"/>
+<img src="" align="right" width="250"/>
 
 - Large deflection is activated. All other details of the solver are held at their default options.  
 - Three step analysis is conducted such that;  
