@@ -107,27 +107,24 @@ after bolts are loaded.
 <br />
 
 ### Results and Discussion
-<img src="" align="right" width="250"/>
 
-- Large deflection is activated. All other details of the solver are held at their default options.  
-- Three step analysis is conducted such that;  
-  - First step --> Bolt preload  
-  - Second step --> Thermal loads  
-  - Third step --> Pressure  
+- Maximum displacement of 1.41 mm occurs at the center of the cover. This is meaningful, considering physics of pressurized vessel. 
+- Temperature varies between 195°C and 200°C which is reasonable, considering steels have high thermal conductivity. Minimum temperatures are observed at external surface of the vessel due to convection boundary condition.
+- Contact tool results in no gap at the outer edge of the contact frictional between cover and body.
+- Excluding stresses occuring in bolts, minimum factor of safety throughout the assembly is around 2.
+- Minimum factor of safect is observed 0.8 in bonded contact between bolt and cover. However, taking care of bolt stresses are not conventional and reasonable due to their simplified bonded contact modelling.
+<img align="center" width="500" alt="image" src="https://github.com/user-attachments/assets/16088eae-9940-4ba7-9763-c2998919b11a" />
+<img align="center" width="505" alt="image" src="https://github.com/user-attachments/assets/c0506121-64bf-4ac1-b4c3-3bc52f06b3a7" />
+<p align="center">Contact Gap and Deformation Results</p>
 
-<br clear="left"/>
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/37fa4d79-f6a5-4161-be7d-b0f1b9e35b37" width="320" />
+  <img src="https://github.com/user-attachments/assets/7a73c3d5-d80a-4993-a138-63340bd4829d" width="450" /></p>
+<p align="center">Stress Factor of Safety and Temperature Results</p>
+  
 ### Analytic Stress Calculation of Bolts
-<img src="" align="right" width="250"/>
 
-- Large deflection is activated. All other details of the solver are held at their default options.  
-- Three step analysis is conducted such that;  
-  - First step --> Bolt preload  
-  - Second step --> Thermal loads  
-  - Third step --> Pressure  
-
-<br clear="left"/> 
-
+Considering pressure on the cover at the very beginning of the loading, it does not have any bending moment for bolts since their directions are perpendicular. Then, the nominal stress occuring in the bolt cross section can be calculated as tensional normal stress. Accounting the cover area, pressure and bolt cross sectional area, normal stress turns out to be around 350MPa, which is way below pretension stress.
 
 
 
