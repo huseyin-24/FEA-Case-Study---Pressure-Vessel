@@ -49,3 +49,18 @@ limit is not exceeded.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9bd2662c-2523-4eab-b6ca-8dc1c62b99ab" width="800" /></p>
 <p align="center">Assigned Mesh</p>
+
+### Boundary Conditions - Thermal
+<img src="https://github.com/user-attachments/assets/341c2a34-0b8e-4f32-8024-d44fe61a285c" align="right" width="400"/>
+
+Temperature and convection boundary conditions are applied  
+given in the figures. Thermal loads are applied at the second  
+step just after bolts are loaded.
+
+
+  
+<br clear="left"/>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b01a08fa-2a7a-45cb-901f-ab8669642cd7" width="500" /></p>
+<p align="center">Step Details for Thermal Boundary Conditions</p>
