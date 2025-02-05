@@ -58,12 +58,24 @@ applied given in the figures.
 - Thermal loads are applied at the second step just
 after bolts are loaded.
 <br clear="left"/>  
-  
-  
-  
-  
-<p align="left">  
-
-    
+<br />
+<br />
+<p align="left"> 
   <img src="https://github.com/user-attachments/assets/b01a08fa-2a7a-45cb-901f-ab8669642cd7" width="400" /></p>
 <p align="left">Step Details for Thermal Boundary Conditions</p>
+
+<br />
+<br />
+ 
+### Boundary Conditions - Mechanical
+<img src="https://github.com/user-attachments/assets/95323105-0a9d-4329-acac-28ecf5d69b8c" align="right" width="350"/>
+
+- Bolt pre-load is applied in the first step and then locked for second and third steps.
+- Inner side of the vessel is pressurized in the third step. 
+- Also frictionless supports at the faces from which symmetry regions are defined are valid for all steps.
+
+<br clear="left"/>  
+
+<p align="left"> 
+  <img src="https://github.com/user-attachments/assets/555a7bb1-02fa-4af8-8a51-a935d85fcb72" width="400" /></p>
+<p align="left">Step Details for Mechanical Boundary Conditions</p>
