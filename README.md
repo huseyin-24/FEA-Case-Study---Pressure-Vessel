@@ -113,8 +113,8 @@ after bolts are loaded.
 - Contact tool results in no gap at the outer edge of the contact frictional between cover and body.
 - Excluding stresses occuring in bolts, minimum factor of safety throughout the assembly is around 2.
 - Minimum factor of safect is observed 0.8 in bonded contact between bolt and cover. However, taking care of bolt stresses are not conventional and reasonable due to their simplified bonded contact modelling.
-<img align="center" width="500" alt="image" src="https://github.com/user-attachments/assets/16088eae-9940-4ba7-9763-c2998919b11a" />
-<img align="center" width="505" alt="image" src="https://github.com/user-attachments/assets/c0506121-64bf-4ac1-b4c3-3bc52f06b3a7" />
+<img align="center" width="400" alt="image" src="https://github.com/user-attachments/assets/16088eae-9940-4ba7-9763-c2998919b11a" />
+<img align="center" width="404" alt="image" src="https://github.com/user-attachments/assets/c0506121-64bf-4ac1-b4c3-3bc52f06b3a7" />
 <p align="center">Contact Gap and Deformation Results</p>
 
 <p align="center">
