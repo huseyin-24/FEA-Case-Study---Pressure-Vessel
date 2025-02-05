@@ -61,6 +61,6 @@ step just after bolts are loaded.
   
 <br clear="left"/>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/b01a08fa-2a7a-45cb-901f-ab8669642cd7" width="500" /></p>
-<p align="center">Step Details for Thermal Boundary Conditions</p>
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/b01a08fa-2a7a-45cb-901f-ab8669642cd7" width="400" /></p>
+<p align="left">Step Details for Thermal Boundary Conditions</p>
