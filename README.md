@@ -47,6 +47,5 @@ limit is not exceeded.
 <br clear="left"/>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1c097667-f732-4af8-a710-3fdd9d22e660" width="400" />
-  <img src="https://github.com/user-attachments/assets/70b88926-8de1-4ced-bb9f-c7880e9e8dcf" width="225" /></p>
+  <img src="https://github.com/user-attachments/assets/9bd2662c-2523-4eab-b6ca-8dc1c62b99ab" width="800" /></p>
 <p align="center">Assigned Mesh</p>
