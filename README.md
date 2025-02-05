@@ -53,9 +53,11 @@ limit is not exceeded.
 ### Boundary Conditions - Thermal
 <img src="https://github.com/user-attachments/assets/341c2a34-0b8e-4f32-8024-d44fe61a285c" align="right" width="400"/>
 
-Temperature and convection boundary conditions are applied  
-given in the figures. Thermal loads are applied at the second  
-step just after bolts are loaded.
+- Temperature and convection boundary conditions are  
+applied given in the figures.
+- Thermal loads are applied at the second step just
+after bolts are loaded.
+
 
 
   
