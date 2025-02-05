@@ -60,6 +60,8 @@ after bolts are loaded.
 <br clear="left"/>  
 <br />
 <br />
+<br />
+<br />
 <p align="left"> 
   <img src="https://github.com/user-attachments/assets/b01a08fa-2a7a-45cb-901f-ab8669642cd7" width="400" /></p>
 <p align="left">Step Details for Thermal Boundary Conditions</p>
@@ -79,3 +81,53 @@ after bolts are loaded.
 <p align="left"> 
   <img src="https://github.com/user-attachments/assets/555a7bb1-02fa-4af8-8a51-a935d85fcb72" width="400" /></p>
 <p align="left">Step Details for Mechanical Boundary Conditions</p>
+
+### Contacts
+<img src="https://github.com/user-attachments/assets/6a463f37-47dd-4e81-ae81-b9c66ab73148" align="right" width="320"/>
+
+- Frictional contact is defined on the following regions: 
+   - Bolt shanks and holes on the cover 
+   - Bolt heads and outer surface of cover
+- Since the bolt material is stiffer than body and cover material, bolts are to be determined as target bodies in corresponding contacts.
+- Bonded contacts represent the interaction in thereaded regions. 
+- Frictional contact is applied to region between cover and body. 
+- Friction coefficient of 0.2 is used for all frictional contacts
+
+<br clear="left"/> 
+
+### Solution Methods and Options
+<img src="https://github.com/user-attachments/assets/a7efb7c6-e184-4989-8dd7-9881d453eca1" align="right" width="250"/>
+
+- Large deflection is activated. All other details of the solver are held at their default options.  
+- Three step analysis is conducted such that;  
+  - First step --> Bolt preload  
+  - Second step --> Thermal loads  
+  - Third step --> Pressure  
+
+<br clear="left"/>  
+
+### Results and Discussion
+<img src="https://github.com/user-attachments/assets/a7efb7c6-e184-4989-8dd7-9881d453eca1" align="right" width="250"/>
+
+- Large deflection is activated. All other details of the solver are held at their default options.  
+- Three step analysis is conducted such that;  
+  - First step --> Bolt preload  
+  - Second step --> Thermal loads  
+  - Third step --> Pressure  
+
+<br clear="left"/>
+
+### Analytic Stress Calculation of Bolts
+<img src="https://github.com/user-attachments/assets/a7efb7c6-e184-4989-8dd7-9881d453eca1" align="right" width="250"/>
+
+- Large deflection is activated. All other details of the solver are held at their default options.  
+- Three step analysis is conducted such that;  
+  - First step --> Bolt preload  
+  - Second step --> Thermal loads  
+  - Third step --> Pressure  
+
+<br clear="left"/> 
+
+
+
+
