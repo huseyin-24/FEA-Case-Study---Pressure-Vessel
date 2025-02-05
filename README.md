@@ -1,4 +1,4 @@
-# FEA-Case-Study---Pressure-Vessel
+# FEA Case Study - Pressure Vessel
 According to case definition, thermocoupled structural analysis is supposed to run.
 ## Case Definition
 The pressure vessel geometry, boundary conditions and material properities are given as follows:
