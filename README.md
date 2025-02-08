@@ -124,9 +124,6 @@ after bolts are loaded.
   <img src="https://github.com/user-attachments/assets/7a73c3d5-d80a-4993-a138-63340bd4829d" width="450" /></p>
 <p align="center">Stress Factor of Safety and Temperature Results</p>
   
-### Analytic Stress Calculation of Bolts
-
-Considering pressure on the cover at the very beginning of the loading, it does not have any bending moment for bolts since their directions are perpendicular. Then, the nominal stress occuring in the bolt cross section can be calculated as tensional normal stress. Accounting the cover area, pressure and bolt cross sectional area, normal stress turns out to be around 350MPa, which is way below pretension stress.
 
 
 
